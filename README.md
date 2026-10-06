@@ -1,5 +1,3 @@
-# customer-churn-analysis
-End-to-end customer churn analysis using Python, machine learning, SHAP explainability, and business insights.
 # Customer Churn Analysis
 
 An end-to-end machine learning project for predicting customer churn and
